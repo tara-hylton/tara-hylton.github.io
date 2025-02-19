@@ -3,21 +3,21 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #333;
-    background-color: #f4f4f4;
+    color:  rgba(72, 10, 50);
+    background-color: rgba(149, 191, 116);
 }
 
 .container {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background: #fff;
+    background: rgba(252, 200, 115);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 h1,h2 {
-            color: #007bff;
+            color: black;
 }
 
 .header {
@@ -31,15 +31,24 @@ h1,h2 {
     font-size: 14px;
 }
 .contact a {
-    color: #007bff;
-    text-decoration: none;
+    color:  black;
+    text-decoration: underline;
 }
+
+a:hover {
+    color: rgba(47, 75, 38)
+}
+
+a:visited {
+    color: rgba(4, 42, 43)
+}
+
 .section {
     margin: 20px 0;
 }
 .section h2 {
     margin-bottom: 10px;
-    border-bottom: 2px solid #007bff;
+    border-bottom: 2px solid black;
     padding-bottom: 5px;
 }
 .item {
@@ -48,7 +57,7 @@ h1,h2 {
 .item h3 {
     margin: 0;
     font-size: 18px;
-    color: #555;
+    color:  black;
 }
 .item p {
     margin: 5px 0;
@@ -60,7 +69,7 @@ h1,h2 {
 }
 .skills ul li {
     display: inline-block;
-    background: #007bff;
+    background: black       ;
     color: #fff;
     padding: 5px 10px;
     margin: 5px 5px 5px 0;

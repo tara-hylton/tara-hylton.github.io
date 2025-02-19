@@ -4,5 +4,5 @@ Online Resume
 - [x] Added style sheet and moved all style elements to style sheet
 - [x] Update personal information
 - [x] Add semantic tags
-- [ ] Update styling
+- [x] Update styling  <!--added some overall color and some hover aspects to links as well>
 - [ ] Merge branches
