@@ -5,4 +5,5 @@ Online Resume
 - [x] Update personal information
 - [x] Add semantic tags
 - [x] Update styling  <!--added some overall color and some hover aspects to links as well>
+Made email a working link, final updates
 - [ ] Merge branches
