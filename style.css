@@ -29,18 +29,16 @@ h1,h2 {
 .contact {
     margin: 10px 0;
     font-size: 14px;
+    a:hover {
+        color: rgba(162, 95, 191)
+    }
+    a:visited {
+        color: rgba(39, 76, 119)
+    }
 }
 .contact a {
     color:  black;
     text-decoration: underline;
-}
-
-a:hover {
-    color: rgba(47, 75, 38)
-}
-
-a:visited {
-    color: rgba(4, 42, 43)
 }
 
 .section {

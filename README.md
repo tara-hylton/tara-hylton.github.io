@@ -7,3 +7,4 @@ Online Resume
 - [x] Update styling  <!--added some overall color and some hover aspects to links as well>
 Made email a working link, final updates
 Removed last step, not needed
+Updated colors for hover and clicked 
